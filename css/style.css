@@ -1,0 +1,47 @@
+body{
+
+font-family: Arial;
+background: #f4f4f4;
+margin: 0;
+
+}
+
+header{
+
+background: #2c3e50;
+color: white;
+padding: 15px;
+
+}
+
+button{
+
+background: #27ae60;
+color: white;
+border: none;
+padding: 10px;
+cursor: pointer;
+
+}
+
+#listaAnimais{
+
+display: flex;
+flex-wrap: wrap;
+
+}
+
+.card{
+
+background: white;
+margin: 10px;
+padding: 10px;
+width: 200px;
+
+}
+
+img{
+
+width: 100%;
+
+}
